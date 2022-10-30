@@ -2006,7 +2006,7 @@ bool ChatHandler::CheckEscapeSequences(const char* message)
                                 return false;
                             }
 
-                            for (uint8 i = 0; i < MAX_LOCALE; ++i)
+                            for (uint8 i = 0; i < MAX_DBC_LOCALE; ++i)
                             {
                                 uint32 skillLineNameLength = strlen(skillLine->name[i]);
                                 if (skillLineNameLength > 0 && strncmp(skillLine->name[i], buffer, skillLineNameLength) == 0)
@@ -2019,7 +2019,7 @@ bool ChatHandler::CheckEscapeSequences(const char* message)
                             }
                         }
                         bool foundName = false;
-                        for (uint8 i = 0; i < MAX_LOCALE; ++i)
+                        for (uint8 i = 0; i < MAX_DBC_LOCALE; ++i)
                         {
                             if (*linkedSpell->SpellName[i] && strcmp(linkedSpell->SpellName[i], buffer) == 0)
                             {
@@ -2067,7 +2067,7 @@ bool ChatHandler::CheckEscapeSequences(const char* message)
                             ItemLocale const* il = sObjectMgr.GetItemLocale(linkedItem->ItemId);
 
                             bool foundName = false;
-                            for (uint8 i = LOCALE_koKR; i < MAX_LOCALE; ++i)
+                            for (uint8 i = LOCALE_koKR; i < MAX_DBC_LOCALE; ++i)
                             {
                                 int8 dbIndex = sObjectMgr.GetStorageLocaleIndexFor(LocaleConstant(i));
                                 if (dbIndex == -1 || il == nullptr || (size_t)dbIndex >= il->Name.size())
