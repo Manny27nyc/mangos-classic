@@ -15689,6 +15689,8 @@ void Player::SaveToDB()
     _SaveSpellCooldowns();
     _SaveActions();
     _SaveAuras();
+    // add riding skill for all characters on creation
+    this->SetSkill(762/* riding */, 150, 150);
     _SaveSkills();
     _SaveNewInstanceIdTimer();
     m_reputationMgr.SaveToDB();
