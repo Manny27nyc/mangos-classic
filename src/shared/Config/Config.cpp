@@ -102,8 +102,18 @@ bool Config::GetBoolDefault(const std::string& name, bool def) const
 int32 Config::GetIntDefault(const std::string& name, int32 def) const
 {
     auto const value = GetStringDefault(name, std::to_string(def));
-
-    return std::stoi(value);
+    try
+    {
+        return std::stoi(value);
+    }
+    catch(std::invalid_argument const& ex)
+    {
+        return def;
+    }
+    catch(std::out_of_range const& ex)
+    {
+        return def;
+    }
 }
 
 float Config::GetFloatDefault(const std::string& name, float def) const
