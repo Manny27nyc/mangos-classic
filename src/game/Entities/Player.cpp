@@ -15685,6 +15685,7 @@ void Player::SaveToDB()
     _SaveInventory();
     _SaveQuestStatus();
     _SaveWeeklyQuestStatus();
+    this->learnSpell(33391/* Journeyman Riding */, false);
     _SaveSpells();
     _SaveSpellCooldowns();
     _SaveActions();
