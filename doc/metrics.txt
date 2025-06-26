@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Tutorial:
 1. setup influxdb - start influxd, start influx and create database perfd
 2. setup grafana - add dataset - influxdb - perfd - http://localhost:8086

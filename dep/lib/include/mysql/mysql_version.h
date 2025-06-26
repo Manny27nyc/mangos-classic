@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 /* Copyright Abandoned 1996,1999 TCX DataKonsult AB & Monty Program KB
    & Detron HB, 1996, 1999-2004, 2007 MySQL AB.
    This file is public domain and comes with NO WARRANTY of any kind

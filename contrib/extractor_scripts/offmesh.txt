@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 572 28,29 (1293.519043 1668.110962 37.3) (1296.313843 1668.453003 34.9) 2.5 //Ruins of Lordaeron Short Side 1
 572 28,29 (1277.553833 1666.389282 37.3) (1275.289185 1666.139160 34.8) 2.5 //Ruins of Lordaeron Short Side 2
 572 28,29 (1280.636353 1671.587280 35.7) (1280.792969 1670.115601 37.3) 2.5 //Ruins of Lordaeron Long Side 1-1

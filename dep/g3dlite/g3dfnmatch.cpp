@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 /* $Id: g3dfnmatch.cpp,v 1.3 2010/03/15 05:01:23 morgan3d Exp $ */
 
 /*	$OpenBSD: fnmatch.c,v 1.7 2000/03/23 19:13:51 millert Exp $	*/

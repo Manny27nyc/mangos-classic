@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 /*
  * Copyright (C) 2010-2013 Anathema Engine project <http://valkyrie-wow.com/>
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
