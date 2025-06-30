@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  *  huffman.c -- functions do decompress files in mpq files which
  *               uses a modified huffman version.

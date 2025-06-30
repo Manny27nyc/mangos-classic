@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #pragma once
 /*
 * This file is part of the CMaNGOS Project. See AUTHORS file for Copyright information

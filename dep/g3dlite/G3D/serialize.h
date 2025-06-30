@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef G3D_SERIALIZE_H
 #define G3D_SERIALIZE_H
 

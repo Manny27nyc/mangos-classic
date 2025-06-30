@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // add here most rarely modified headers to speed up debug build compilation
 #ifndef PCHDEF_H
 #define PCHDEF_H

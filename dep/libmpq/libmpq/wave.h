@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  *  wave.h -- header file for wav unplode functions used by mpq-tools.
  *

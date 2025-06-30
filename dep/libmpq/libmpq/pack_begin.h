@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  *  pack_begin.h -- header file for struct packing used by libmpq.
  *

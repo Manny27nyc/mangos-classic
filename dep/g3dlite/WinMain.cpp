@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
     Dervied from SDL_main.c, which was placed in the public domain by Sam Lantinga  4/13/98
 

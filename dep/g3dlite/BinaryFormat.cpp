@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  @file BinaryFormat.cpp
   @maintainer Morgan McGuire, http://graphics.cs.williams.edu

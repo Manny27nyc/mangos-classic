@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Base32 implementation
 //
 // Copyright 2010 Google Inc.

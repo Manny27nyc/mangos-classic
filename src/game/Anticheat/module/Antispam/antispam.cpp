@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * Copyright (C) 2017-2020 namreeb (legal@namreeb.org)
  *

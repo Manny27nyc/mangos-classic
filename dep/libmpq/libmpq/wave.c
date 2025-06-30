@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  *  wave.c -- this file contains decompression methods used by mpq-tools
  *            to decompress wave files.

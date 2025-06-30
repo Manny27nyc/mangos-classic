@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "ValueHistory.h"
 #include "imgui.h"
 #include <string.h>

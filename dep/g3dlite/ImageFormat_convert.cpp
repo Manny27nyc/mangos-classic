@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "G3D/ImageFormat.h"
 #include "G3D/Color1uint8.h"
 #include "G3D/Color3uint8.h"

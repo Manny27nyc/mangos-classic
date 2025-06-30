@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef MAPINFOS_H
 #define MAPINFOS_H
 

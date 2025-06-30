@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 """wrapper for libmpq"""
 
 # This program is free software; you can redistribute it and/or modify

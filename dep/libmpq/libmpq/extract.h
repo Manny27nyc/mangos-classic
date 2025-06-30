@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  *  extract.h -- header for the extraction functions used by mpq-tools.
  *

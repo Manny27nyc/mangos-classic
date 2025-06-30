@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // stb_truetype.h - v0.7 - public domain
 // authored from 2009-2013 by Sean Barrett / RAD Game Tools
 //

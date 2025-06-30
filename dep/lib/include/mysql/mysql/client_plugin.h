@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef MYSQL_CLIENT_PLUGIN_INCLUDED
 /* Copyright (c) 2010, 2020, Oracle and/or its affiliates. All rights reserved.
 

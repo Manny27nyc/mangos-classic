@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*****************************************************************************
  * dirent.h - dirent API for Microsoft Visual Studio
  *

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * Copyright 1995-2018 The OpenSSL Project Authors. All Rights Reserved.
  *

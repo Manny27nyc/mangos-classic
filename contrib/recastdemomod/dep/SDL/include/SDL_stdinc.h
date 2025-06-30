@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
     SDL - Simple DirectMedia Layer
     Copyright (C) 1997-2012 Sam Lantinga

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
   @file GImage_jpeg.cpp
   @author Morgan McGuire, http://graphics.cs.williams.edu

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "AI/BaseAI/PossessedAI.h"
 #include "Entities/Creature.h"
 

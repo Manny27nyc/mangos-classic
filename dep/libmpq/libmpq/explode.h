@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  *  explode.h -- header file for pkware data decompression library
  *               used by mpq-tools.

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef RECASTDEMOTOOLS_H
 #define RECASTDEMOTOOLS_H
 

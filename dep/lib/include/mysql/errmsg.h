@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef ERRMSG_INCLUDED
 #define ERRMSG_INCLUDED
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "DetourTileCache.h"
 #include "DetourTileCacheBuilder.h"
 #include "DetourNavMeshBuilder.h"

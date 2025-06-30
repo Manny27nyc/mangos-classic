@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef MMAPDATA_H
 #define MMAPDATA_H
 

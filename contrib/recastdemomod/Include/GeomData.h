@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef GEOMDATA_H
 #define GEOMDATA_H
 

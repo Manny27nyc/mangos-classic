@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef VALUEHISTORY_H
 #define VALUEHISTORY_H
 

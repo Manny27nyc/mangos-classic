@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  *  mpq-internal.h -- some default types and defines, but only required for
  *                    compilation of the library.

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "Chat/Chat.h"
 #include "World/World.h"
 #include "Entities/Player.h"

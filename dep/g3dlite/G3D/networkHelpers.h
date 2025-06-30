@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Included by NetworkDevice.cpp and TCPConduit.cpp to provide a platform-independent networking base
 
 #include <cstring>

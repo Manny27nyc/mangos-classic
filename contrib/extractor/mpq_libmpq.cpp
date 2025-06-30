@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
 * This file is part of the Continued-MaNGOS Project
 *

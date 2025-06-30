@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "MapData.h"
 
 void MapInfos::Init(unsigned int mapId, BuildContext* ctx)

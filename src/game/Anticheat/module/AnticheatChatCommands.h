@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 //This file included in Anticheat.hpp. This private table information
 
 static ChatCommand anticheatFingerprintCommandTable[] =

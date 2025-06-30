@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 #ifndef EXTRACTOR_DEFINES_H
 #define EXTRACTOR_DEFINES_H

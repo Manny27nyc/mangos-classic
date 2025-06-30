@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * Copyright (C) 2010-2013 Anathema Engine project <http://valkyrie-wow.com/>
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>

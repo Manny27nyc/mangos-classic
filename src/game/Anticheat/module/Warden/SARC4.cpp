@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * Copyright (C) 2005-2012 MaNGOS <http://getmangos.com/>
  *

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 #ifndef _SDLname_h_
 #define _SDLname_h_

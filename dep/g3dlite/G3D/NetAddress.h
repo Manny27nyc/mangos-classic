@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef G3D_NetAddress_h
 #define G3D_NetAddress_h
 

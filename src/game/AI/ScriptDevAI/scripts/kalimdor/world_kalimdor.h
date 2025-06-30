@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 #ifndef DEF_WORLD_MAP_KALIMDOR_SCRIPTS_H
 #define DEF_WORLD_MAP_KALIMDOR_SCRIPTS_H

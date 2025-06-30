@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 from disco.bot import Plugin
 import pymysql.cursors
 import socket

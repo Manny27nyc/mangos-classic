@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  *  extract.c -- global extracting function for all known file compressions
  *               in a mpq archive.

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef __REVISION_SQL_H__
 #define __REVISION_SQL_H__
  #define REVISION_DB_REALMD "required_z2778_01_realmd_anticheat"

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "G3D/platform.h"
 #include "G3D/Spline.h"
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  *  crypt_buf_gen.c -- tool to re-create the static decryption buffer.
  *

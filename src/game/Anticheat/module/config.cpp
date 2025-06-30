@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "config.hpp"
 #include "Anticheat/Anticheat.hpp"
 

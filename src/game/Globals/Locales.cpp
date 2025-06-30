@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "Locales.h"
 
 char const* localeNames[MAX_LOCALE] =

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #define _CRT_SECURE_NO_DEPRECATE
 
 #include "loadlib.h"

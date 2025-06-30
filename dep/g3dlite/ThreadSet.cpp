@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "G3D/ThreadSet.h"
 
 namespace G3D {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include <stdio.h>
 #include "memory.h"
 #include "Vmap/MapTree.h"

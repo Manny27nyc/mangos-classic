@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef _PlayerbotPaladinAI_H
 #define _PlayerbotPaladinAI_H
 

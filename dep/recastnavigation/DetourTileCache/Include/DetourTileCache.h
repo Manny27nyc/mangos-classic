@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef DETOURTILECACHE_H
 #define DETOURTILECACHE_H
 
